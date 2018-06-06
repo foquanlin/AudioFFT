@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="69febba254603ca9efed85d0f12d6f7651e0ee54">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7eb1977c5a071ca55bf3e93a51a954cc96a41515/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_3d96ffa7728112847622aaf93e16d14403e6bbf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="e825b59f1c1eba8d46fc212746a6368e9aafdbe3">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b097b73186950f1d67fe723bbecccb3dba9a7808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/libs/jtransforms-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9e52124b670340d47844a734e36765c3bc11b7f3">
+        <dex dex="/Users/giovanni/AndroidStudioProjects/AudioFFT/app/build/intermediates/transforms/dex/debug/folders/1000/2/jtransforms-2.4_dfba52067caebca0e525111fd853808a9d7f15fc/classes.dex" />
+    </item>
+
+</items>

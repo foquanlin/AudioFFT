@@ -1,0 +1,26 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/imageViewSpectrum"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="#464646" />
+
+    <Button
+        android:id="@+id/buttonStartStopRecording"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/imageViewSpectrum"
+        android:layout_marginTop="25dp"
+        android:text="@string/button_text_start_record" />
+</LinearLayout>
